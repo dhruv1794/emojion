@@ -12,6 +12,7 @@
 		537AC3DD1E48BC14009EB7B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 537AC3DB1E48BC14009EB7B8 /* Main.storyboard */; };
 		537AC3DF1E48BC14009EB7B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 537AC3DE1E48BC14009EB7B8 /* Assets.xcassets */; };
 		537AC3E21E48BC14009EB7B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 537AC3E01E48BC14009EB7B8 /* LaunchScreen.storyboard */; };
+		537AC3EA1E48CBFF009EB7B8 /* definationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537AC3E91E48CBFF009EB7B8 /* definationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		537AC3DE1E48BC14009EB7B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		537AC3E11E48BC14009EB7B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		537AC3E31E48BC14009EB7B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		537AC3E91E48CBFF009EB7B8 /* definationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = definationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				537AC3D71E48BC14009EB7B8 /* AppDelegate.swift */,
 				537AC3D91E48BC14009EB7B8 /* ViewController.swift */,
+				537AC3E91E48CBFF009EB7B8 /* definationViewController.swift */,
 				537AC3DB1E48BC14009EB7B8 /* Main.storyboard */,
 				537AC3DE1E48BC14009EB7B8 /* Assets.xcassets */,
 				537AC3E01E48BC14009EB7B8 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				537AC3EA1E48CBFF009EB7B8 /* definationViewController.swift in Sources */,
 				537AC3DA1E48BC14009EB7B8 /* ViewController.swift in Sources */,
 				537AC3D81E48BC14009EB7B8 /* AppDelegate.swift in Sources */,
 			);
